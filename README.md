@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">
 
 <!--
 **xxdxlxxr/xxdxlxxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxdxlxxr&show_icons=true&theme=radical)
+
+---
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgt1113)](https://solved.ac/jgt1113)
+<img src="http://mazandi.herokuapp.com/api?handle=jgt1113&theme=warm"/>
+</div>
