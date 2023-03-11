@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🍊**Me**🍊
-####
+## **🍊Me🍊**
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgt1113)](https://solved.ac/jgt1113)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jgt1113&theme=dark)
   
